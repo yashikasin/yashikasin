@@ -2,7 +2,7 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning in 10
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me yashikakushwaha2@gmail.com
 
 <!---
 yashikasin/yashikasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
